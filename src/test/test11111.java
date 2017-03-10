@@ -7,10 +7,7 @@ public class test11111 {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("ddd");
-		System.out.println("dd222222222222d");
-		System.out.println("xxxxxxxxxxxx");
-		System.out.println("dd222222222222d");
+		System.out.println("hello world zhangsan ");
 	}
 
 }
