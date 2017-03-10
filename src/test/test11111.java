@@ -10,7 +10,6 @@ public class test11111 {
 		System.out.println("ddd");
 		System.out.println("dd222222222222d");
 		System.out.println("xxxxxxxxxxxx");
-		System.out.println("1111111111111111111111111111111111111111111");
 	}
 
 }
