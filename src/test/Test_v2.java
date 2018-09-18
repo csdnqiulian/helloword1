@@ -15,6 +15,7 @@ public class Test_v2 {
 		System.out.println("555555 ");
 
 		System.out.println("555555xxx ");
+		System.out.println("邱炼 ");
 	}
 
 }
