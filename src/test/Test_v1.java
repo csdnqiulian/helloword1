@@ -8,5 +8,9 @@ public class Test_v1 {
 		System.out.println("分支的问题11");
 		System.out.println("分支的问题33333");
 	}
+	
+	public void run() {
+		System.out.println("xxxx");
+	}
 
 }
