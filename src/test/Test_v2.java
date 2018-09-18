@@ -37,6 +37,7 @@ public class Test_v2 {
 	public void run3() {
 		
 		System.out.println("zhangsan");
+		System.out.println("李四");
 	}
 	
 
