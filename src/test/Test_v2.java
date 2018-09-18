@@ -26,6 +26,10 @@ public class Test_v2 {
 		System.out.println("zhangsan");
 		System.out.println("赵柳");
 	}
+	public void run7() {
+		
+		System.out.println("王五");
+	}
 	
 	public void run4() {
 		
