@@ -18,6 +18,7 @@ public class Test_v2 {
 		System.out.println("邱炼 ");
 		System.out.println("王志华 ");
 		System.out.println("浏阳");
+		System.out.println("zhangsan");
 	}
 	public void run3() {
 		
