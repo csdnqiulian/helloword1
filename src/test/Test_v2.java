@@ -21,20 +21,6 @@ public class Test_v2 {
 		System.out.println("zhangsan");
 	}
 	
-	public void run2() {
-		System.out.println("hellow ");
-		System.out.println("hellow111 ");
-		System.out.println("hellow111111 ");
-		System.out.println("hellow111333 ");
-
-		System.out.println("555555 ");
-
-		System.out.println("555555xxx ");
-		System.out.println("邱炼 ");
-		System.out.println("王志华 ");
-		System.out.println("浏阳");
-	}
-	
 	public void run3() {
 		
 		System.out.println("zhangsan");
