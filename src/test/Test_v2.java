@@ -24,8 +24,14 @@ public class Test_v2 {
 	public void run3() {
 		
 		System.out.println("zhangsan");
-		System.out.println("李四");
+		System.out.println("赵柳");
 	}
+	
+	public void run4() {
+		
+		System.out.println("王五");
+	}
+	
 	
 
 }
